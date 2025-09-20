@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stacksavvy/static/css/main.e6c13ad2.css",
+    "main.js": "/stacksavvy/static/js/main.137e188e.js",
+    "static/js/453.47022a49.chunk.js": "/stacksavvy/static/js/453.47022a49.chunk.js",
+    "index.html": "/stacksavvy/index.html",
+    "main.e6c13ad2.css.map": "/stacksavvy/static/css/main.e6c13ad2.css.map",
+    "main.137e188e.js.map": "/stacksavvy/static/js/main.137e188e.js.map",
+    "453.47022a49.chunk.js.map": "/stacksavvy/static/js/453.47022a49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.137e188e.js"
+  ]
+}
